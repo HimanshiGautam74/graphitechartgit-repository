@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  graphitechart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-18T20:29:53.9660688+05:30"
+    description: creating helm chart for my application that is graphitechart
+    digest: ed952ad3df5a9b64c984765a2e9cf230a1441328871b6966b8367052c35a1195
+    name: graphitechart
+    type: application
+    urls:
+    - https://himanshigautam74.github.io/graphitechartgit-repository/graphitechart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-18T20:29:53.9633793+05:30"
